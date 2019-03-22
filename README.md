@@ -1,0 +1,2 @@
+# Polimorfizm
+Przyklad z super
